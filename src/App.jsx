@@ -12,7 +12,7 @@ class App extends Component {
         </header>
         <section>
           <div className='card'>
-            <img src={`${BASEURL}1.jpeg`} alt=''/>        <!--We can use /p005/1.jpeg to display the image in the deployed link but it is a bad practice-->
+            <img src={`${BASEURL}1.jpeg`} alt=''/>        //We can use /p005/1.jpeg to display the image in the deployed link but it is a bad practice
             <label>Image 01</label>
           </div>
           <div className='card'>
